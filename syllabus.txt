@@ -1,0 +1,21 @@
+● React Giriş
+● SPA
+● Component
+● Class Constructor
+● State, Props
+● Lifecycles
+● Function Component
+● Hooks
+● Router
+● Hoc
+● Portal
+● Lazy Load, Code Split
+● Component Design Patterns
+
+● Performance
+● Error Boundaries
+
+https://github.com/CaglayanYanikoglu/patika-training
+https://caglayanyanikoglu.medium.com/
+https://x.com/caglayandev
+https://www.linkedin.com/in/%C3%A7a%C4%9Flayan-yan%C4%B1ko%C4%9Flu-a6b42b13b/?originalSubdomain=tr
